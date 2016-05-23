@@ -1,6 +1,8 @@
 # Something2Do
 Don't know what to do? That's exactly what Something2Do is made for. Find something to do today!
 
+Give it a try at http://mikethedj4.github.io/Something2Do/
+
 Version
 -------------
 
