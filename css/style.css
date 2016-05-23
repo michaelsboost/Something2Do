@@ -1,0 +1,80 @@
+/* Global Styles */
+@font-face {
+  font-family: Lato;
+  src: url('../libraries/font-awesome/Lato-Light.ttf');
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+/*  background: #74b5de;*/
+  background: #38ada5;
+}
+.wrapbg {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+#container {
+  width: 100%;
+  height: 100vh;
+}
+.wrapbg, canvas, footer {
+  position: absolute;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+/* Center Everything Verically */
+.table {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: table;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* Twitter Hash Feed */
+.results .twitter-timeline {
+  position: absolute!important;
+  top: 2px!important;
+  left: 50%!important;
+  width: 93vw!important;
+  height: calc(100vh - 70px)!important;
+  margin-left: -46.5vw!important;
+  margin-top: 1vw!important;
+  background: rgba(255, 255, 255, 0.21);
+}
+.twitter-timeline {
+  color: #217D77;
+}
+
+/* Footer Buttons */
+footer .fa {
+  cursor: pointer;
+  font-size: 29px;
+  margin: 0.3136em 0.56em;
+  color: #fff;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+}
+
+/* variable classes */
+.hide {
+  display: none;
+}
