@@ -54,6 +54,7 @@ footer {
   left: 50%!important;
   width: 93vw!important;
   height: calc(100vh - 70px)!important;
+  min-height: calc(100vh - 70px)!important;
   margin-left: -46.5vw!important;
   margin-top: 1vw!important;
   background: rgba(255, 255, 255, 0.21);
