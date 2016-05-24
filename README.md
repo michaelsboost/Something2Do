@@ -20,7 +20,6 @@ Something2Do uses a few open source projects to work properly:
 
 * [jQuery](http://jquery.com/) - duh
 * [Twitter Embedded Timelines](https://dev.twitter.com/web/embedded-timelines) - Everyones ideas for Something2Do are all posted and retrieved using [Twitter](https://twitter.com/search?q=%23Something2Do)!
-* [Cordova](https://cordova.apache.org/) - mobile application development framework
 * Astral Background by [Duncan Smith](http://codepen.io/notduncansmith/pen/ogbwEv)
 * Music from [OrangeFreeSounds.com](http://www.orangefreesounds.com/category/music/relaxing-music/)
 
