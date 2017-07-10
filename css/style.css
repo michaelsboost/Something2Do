@@ -11,6 +11,7 @@ body {
   font-size: 17px;
 /*  background: #74b5de;*/
   background: #38ada5;
+  overflow: hidden;
 }
 .wrapbg {
   top: 0;
