@@ -27,10 +27,4 @@ Something2Do uses a few open source projects to work properly:
 Development
 -------------
 
-Want to contribute? Great!  
-
-You can submit a pull request or simply share the project :)
-
-Of course Something2Do is free and open source, so you can always fork the project and have fun :)
-
-If you like Something2Do. [Would you consider donating to the project?](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=JryIEtO_GiYnqlvRfV6BGnO6bAxR3JtIQif2j1z1eFYuoLkYf_XZOY6QbWe&dispatch=5885d80a13c0db1f8e263663d3faee8dcce3e160f5b9538489e17951d2c62172)
+You can show your appreciation by [Donating via SquareCash](https://cash.me/$michaelsboost) and/or [PayPal](https://www.paypal.me/mikethedj4)
