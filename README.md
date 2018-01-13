@@ -1,8 +1,8 @@
 # Something2Do
 Don't know what to do? That's exactly what Something2Do is made for. Find something to do today!
 
-Give it a try at: http://mikethedj4.github.io/Something2Do/  
-Play with the code at: http://codepen.io/mikethedj4/pen/YqmjVY
+Give it a try at: http://michaelsboost.github.io/Something2Do/  
+Play with the code at: http://codepen.io/michaelsboost/pen/YqmjVY
 
 Version
 -------------
